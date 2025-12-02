@@ -4,7 +4,6 @@ use challenge::hero::Hero;
 use sui::coin::{Self, Coin};
 use sui::event;
 use sui::sui::SUI;
-use std::address::length;
 
 // ========= ERRORS =========
 
